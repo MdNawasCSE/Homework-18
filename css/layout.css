@@ -1,0 +1,35 @@
+.header, .hero,.body,.bar,.footer{
+  background-color: teal;
+  margin-bottom: 10px;
+}
+h3{
+  padding-left: 118px;
+}
+
+.box{
+  min-height: 100px;
+  background-color: red;
+  border:1px solid black;
+  margin: 10px 0;
+  color: white;
+  font-size: 30px;
+}
+.red{
+  background-color: lime;
+}
+.five{
+  background-color: blue;
+}
+.box2{
+  /* width: 200px;
+  height: 200px; */
+  background-color: #dddddd;
+  border: 5px solid red;
+}
+
+.mh-400{
+  min-height: 400px;
+}
+.hello{
+  height:100px;
+}
